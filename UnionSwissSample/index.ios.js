@@ -1,1 +1,1 @@
-import {app} from './app/App';
+import {app} from './app/containers/App';
