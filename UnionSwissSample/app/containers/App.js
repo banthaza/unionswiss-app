@@ -4,6 +4,8 @@ import {
 
 } from 'react-native';
 const App = SignInPageNavigator
-AppRegistry.registerComponent('UnionSwissSample', () => App);
+
+AppRegistry.registerComponent('App', () => App);
+
 export { App };
 
